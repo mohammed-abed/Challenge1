@@ -15,15 +15,12 @@
     background:var(--primary);
 }
 
-.img{
-}
-
 .line{
     padding-left: 20px;
     padding-right: 20px;
 }
 
-.name{
+.name .value{
     text-transform: uppercase;
 }
 
